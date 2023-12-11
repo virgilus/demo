@@ -1,4 +1,4 @@
 def hello(s):
-    features_encoding = 36
     toto = "tata"
+    features_encoding = 12
     return features_encoding
